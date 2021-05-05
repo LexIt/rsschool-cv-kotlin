@@ -5,4 +5,4 @@
 * print("Hello world");
 * I'm like a blank sheet. I want to start from a scratch.
 * I have a higher education.
-* English(Pre-Entermediate)
+* English (Pre-Entermediate)
