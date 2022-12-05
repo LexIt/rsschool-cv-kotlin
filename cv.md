@@ -1,7 +1,7 @@
 ========
 **Serhii Zhukov**
 ========
-**Contact information**
+***Contact information***
 
 Dnipro
 --------
