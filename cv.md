@@ -7,7 +7,7 @@
 --------
 **Briefly About Myself:**
 
-Student JS stage 0
+***Student JS stage 0***
 --------
 **Skills and Proficiency:**
 
