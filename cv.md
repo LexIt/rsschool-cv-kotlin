@@ -5,7 +5,7 @@
 
 Dnipro
 --------
-Briefly About Myself:
+**Briefly About Myself:**
 
 Student JS stage 0
 --------
