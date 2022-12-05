@@ -1,9 +1,9 @@
 ========
 **Serhii Zhukov**
 ========
-***Contact information***
+**Contact information**
 
-Dnipro
+***Dnipro***
 --------
 **Briefly About Myself:**
 
